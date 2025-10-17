@@ -23,6 +23,8 @@ const nextConfig = {
     }
     return config
   },
+  assetPrefix:  '/Portfolio',
+  basePath: '/Portfolio', 
 }
 
 export default nextConfig
