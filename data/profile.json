@@ -1,0 +1,76 @@
+{
+  "name": "Yashika Dhiria",
+  "oneLiner": "Product Enthusiast | Building bridges between Tech and Vision with full-product insight",
+  "imageUrl": "/Y.png?height=800&width=800",
+  "points": ["Customer-obsessed problem solver", "Technical depth with product intuition", "From debugging code to decoding user needs"],
+  "socials": [
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/yashika-dhiria" },
+    { "label": "X", "url": "https://x.com/yashikadhiria" }
+  ],
+  "projects": [
+    {
+      "title": "Product Pathfinders - Skill-Based Hiring Platform",
+      "summary": "A comprehensive platform for aspiring product managers from non-traditional backgrounds to showcase their skills through assessments and get hired by companies.",
+      "tags": ["Product Management", "Skill Assessment", "Hiring Platform"],
+      "prds": [
+        { "label": "PRD — Phase 1: Problem & Scope", "url": "https://cumbersome-cruiser-030.notion.site/Product-Requirement-Document-Phase-1-23403def0c8480809684fdc30382e431?pvs=25" },
+        { "label": "PRD — Phase 2: MVP & Experiments", "url": "https://cumbersome-cruiser-030.notion.site/Product-Requirement-Document-Phase-2-23403def0c8480d7bae5ee08229018c9?pvs=25" },
+        { "label": "PRD — Phase 3: Iteration & Scale", "url": "https://cumbersome-cruiser-030.notion.site/Product-Requirement-Document-Phase-3-23403def0c848066a952cd93e4a2b606?pvs=25" }
+      ],
+      "prototype": "https://product-pathfinder-assess.lovable.app/"
+    },
+    {
+      "title": "Zomato Bundled Deliveries Case Study",
+      "summary": "Proposed a real-time order matching system to club small-value orders from nearby users, increasing order completion rates and reducing delivery friction.",
+      "tags": ["Case Study", "Feature Proposal", "Food Delivery"],
+      "prds": [
+        { "label": "Case Study Document", "url": "https://docs.google.com/presentation/d/1b_WCcUJngosbVGrGg8pA2MexZNMSwHQlQz1HK5_d1lI/edit" },
+        { "label": "Product Requirement Document", "url": "https://dhiriayashika1997.atlassian.net/wiki/pages/resumedraft.action?draftId=16580611&draftShareId=87b81536-d235-4460-9659-4d419527a801" }
+      ]
+    },
+    {
+      "title": "MovieTime Tracker - Movie Booking Feature",
+      "summary": "Proposed feature for movie booking apps enabling real-time show status tracking to reduce late-arrival stress, prioritized using MoSCoW for lean MVP.",
+      "tags": ["Feature Proposal", "UX Enhancement", "Movie Booking"],
+      "prds": [
+        { "label": "Case Study Document", "url": "https://g.co/gemini/share/2d993fc36bf9" }
+      ]
+    }
+  ],
+  "softSkills": ["Customer empathy", "Problem-solving", "Comfort with ambiguity", "Communication skills", "Stakeholder management", "Ownership and accountability", "Drive and resilience", "Cross functional collaboration", "Analytical thinking", "Adaptability"],
+  "pmSkills": ["Project Planning", "Project Documentation", "Agile/Scrum Methodology", "Product Lifecycle", "Feature Prioritization", "Roadmapping", "Backlog Management", "Experiment Design", "PRDs", "KPIs & Metrics"],
+  "tools": ["Jira", "Notion", "Confluence", "MS Office Suite", "Google Slides", "Postman", "Visual Studio", "MySQL", "Figma", "Amplitude", "Looker"],
+  "aiToolkit": ["ChatGPT (OpenAI)", "DeepSeek", "Gemini", "Lovable", "Gamma.app", "Notion AI", "Grok", "Prompt Engineering", "RAG Basics"],
+  "experience": [
+    {
+      "role": "Application Development Analyst",
+      "company": "Accenture",
+      "period": "Mar 2023 - Dec 2023",
+      "bullets": [
+        "Developed and maintained .NET-based web applications, collaborating in Agile teams to deliver scalable, user-focused software solutions.",
+        "Led cross-functional collaboration to ensure high-quality software delivery and user satisfaction.",
+        "Implemented technical solutions while maintaining focus on user experience and business requirements."
+      ]
+    },
+    {
+      "role": "Application Development Associate",
+      "company": "Accenture",
+      "period": "Feb 2021 - Feb 2023",
+      "bullets": [
+        "Assisted in designing and developing .NET applications while supporting cross-functional teams in delivering high-quality software solutions.",
+        "Gained hands-on experience with C#, ASP.NET Core, MVC, SQL Server, and Azure DevOps.",
+        "Contributed to project planning and documentation using Agile/Scrum methodologies."
+      ]
+    }
+  ],
+  "certifications": [
+    { "title": "Google Project Management Professional Certificate", "issuer": "Coursera", "year": "2024" },
+    { "title": "Become a Product Manager", "issuer": "Udemy", "year": "2024" },
+    { "title": "Azure DevOps Fundamentals for Beginners", "issuer": "Udemy", "year": "2023" }
+  ],
+  "contact": {
+    "email": "dhiria.yashika1997@gmail.com",
+    "phone": "+919413001924"
+  },
+  "resumeUrl": "https://drive.google.com/file/d/1punRkZqNKxH52UQ5pxdEkH2WzM9uRYg-/view?usp=sharing"
+}

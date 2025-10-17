@@ -1,0 +1,52 @@
+{
+  "brand": "Yashika",
+  "nav": {
+    "projects": "Projects",
+    "skills": "Skills",
+    "experience": "Experience",
+    "certifications": "Certifications",
+    "contact": "Contact",
+    "resume": "Resume"
+  },
+  "actions": {
+    "toggleTheme": "Toggle theme"
+  },
+  "hero": {
+    "imageAlt": "Yashika Dhiria - Product Manager Portrait",
+    "socialAria": "Open social profile:",
+    "ctaPrimary": "Explore My Work"
+  },
+  "sections": {
+    "projects": "Projects & Case Studies",
+    "skills": "Skills & Toolkit",
+    "experience": "Work Experience",
+    "certifications": "Certifications",
+    "contact": "Let's Connect"
+  },
+  "projects": {
+    "subtitle": "From product ideation to execution - showcasing strategic thinking and user-centric solutions."
+  },
+  "skills": {
+    "subtitle": "A unique blend of technical expertise and product intuition.",
+    "softSkills": "Soft Skills",
+    "pmSkills": "Product Management Skills",
+    "tools": "Tools & Technologies",
+    "aiToolkit": "AI Toolkit"
+  },
+  "experience": {
+    "subtitle": "Building scalable solutions with a focus on user experience and technical excellence."
+  },
+  "certifications": {
+    "subtitle": "Continuous learning and professional development.",
+    "view": "View"
+  },
+  "contact": {
+    "subtitle": "Ready to build something amazing together?",
+    "getInTouch": "Get in touch",
+    "emailMe": "Email me"
+  },
+  "footer": {
+    "copyright": "© {year} Yashika Dhiria",
+    "backToTop": "Back to top"
+  }
+}
