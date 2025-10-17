@@ -57,17 +57,17 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://yashikadhiria.github.io"),
+  metadataBase: new URL("https://yashikadhiria.github.io/Portfolio"),
   alternates: {
     canonical: "/",
   },
   icons: {
     icon: [
-      { url: "/favicon.svg", type: "image/svg+xml" },
-      { url: "/favicon.ico", sizes: "32x32", type: "image/x-icon" }
+      { url: "/Portfolio/favicon.svg", type: "image/svg+xml" },
+      { url: "/Portfolio/favicon.ico", sizes: "32x32", type: "image/x-icon" }
     ],
     apple: [
-      { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }
+      { url: "/Portfolio/apple-touch-icon.png", sizes: "180x180", type: "image/png" }
     ],
   },
   themeColor: "#000000",
@@ -75,13 +75,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://yashikadhiria.github.io",
+    url: "https://yashikadhiria.github.io/Portfolio",
     title: "Yashika Dhiria - Product Manager Portfolio",
     description: "Product Enthusiast building bridges between Tech and Vision with full-product insight. Explore my projects, case studies, and product management journey.",
     siteName: "Yashika Dhiria Portfolio",
     images: [
       {
-        url: "/og-image.jpg",
+        url: "/Portfolio/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "Yashika Dhiria - Product Manager Portfolio",
@@ -92,7 +92,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Yashika Dhiria - Product Manager Portfolio",
     description: "Product Enthusiast building bridges between Tech and Vision with full-product insight.",
-    images: ["/og-image.jpg"],
+    images: ["/Portfolio/og-image.jpg"],
     creator: "@yashikadhiria",
   },
   robots: {

@@ -133,7 +133,7 @@ export function Hero({ id, labels, profile }: HeroProps) {
               <CardContent className="p-0">
                 <div className="relative aspect-square md:aspect-[4/3]">
                   <Image
-                    src={profile.imageUrl || "/placeholder-user.jpg"}
+                    src={profile.imageUrl || "/Portfolio/placeholder-user.jpg"}
                     alt={labels.hero.imageAlt}
                     fill
                     className="object-cover"
